@@ -1,0 +1,7 @@
+bin
+obj
+*.user
+*.suo
+*.vcxproj.filters
+*.sdf
+*.opensdf
